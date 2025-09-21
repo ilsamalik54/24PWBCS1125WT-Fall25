@@ -1,3 +1,0 @@
-Create a file called test.txt and add any text inside it. Save the file and commit it with a message
-describing the addition. After this, delete the test.txt file, commit the deletion with another
-message, and

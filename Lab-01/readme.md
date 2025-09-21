@@ -1,0 +1,1 @@
+In this lab, I learned how to use Git for version control, including creating and managing branches. I practiced committing changes, creating new files, and pushing them to a remote repository. Working with branches helped me understand how to collaborate on projects without interfering with the main codebase.
